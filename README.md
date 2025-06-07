@@ -180,7 +180,7 @@ python app.py
 | ส่วน        | URL                                                        | คำอธิบาย                     |
 | ----------- | ---------------------------------------------------------- | ---------------------------- |
 | Frontend    | [http://localhost:5173](http://localhost:5173)             | เว็บไซต์หลัก                 |
-| Backend API | [http://localhost\:xxxx](http://localhost:8888)            | REST API                     |
+| Backend API | [http://localhost\:8888](http://localhost:8888)            | REST API                     |
 | ML API      | [http://localhost:8877](http://localhost:8877)             | ทำนายผล (เช่น POST /predict) |
 | phpMyAdmin  | [http://localhost/phpmyadmin](http://localhost/phpmyadmin) | ตรวจสอบฐานข้อมูล             |
 
